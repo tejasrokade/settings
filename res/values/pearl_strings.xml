@@ -74,4 +74,8 @@
     <string name="credit_8">ArrowOS</string>
     <string name="credit_9">CypherOS</string>
     <string name="credit_10">DotOS</string>
+
+    <!-- Font picker -->
+    <string name="font_picker_title">Font</string>
+
 </resources>

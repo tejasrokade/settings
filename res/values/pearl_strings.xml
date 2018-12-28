@@ -58,4 +58,33 @@
     <string name="battery_stats_message">Battery history stats are going to be reset</string>
     <string name="ok_string">Ok</string>
 
+
+    <!-- Pearl Version -->
+    <string name="pearl_version">Pearl Build</string>
+    <string name="pearl_version_default">Diamond</string>
+
+    <!-- Advanced Controls -->
+    <string name="xiaomi_part_title">Advanced Controls</string>
+    <string name="xiaomi_part_title_summary">Play it safe!</string>
+    <string name="pearl_settings_title">Pearl Centre</string>
+    <string name="pearl_settings_summary">Additional settings</string>
+
+    <!-- Pearl Additions -->
+    <string name="maintainers">Maintainers</string>
+    <string name="maintainer_description">Maintains for %1$s</string>
+    <string name="pearl_about_info">Credits and Maintainers</string>
+    <string name="credits">Credits</string>
+    <string name="tester">Testers</string>
+    <string name="credit_1">LineageOS</string>
+    <string name="credit_2">AospExtended</string>
+    <string name="credit_3">PixysOS</string>
+    <string name="credit_4">DirtyUnicorns</string>
+    <string name="credit_5">Xtended</string>
+    <string name="credit_6">PixelExperience</string>
+    <string name="credit_7">AOSiP</string>
+    <string name="credit_8">ArrowOS</string>
+    <string name="credit_9">CypherOS</string>
+    <string name="credit_9">DotOS</string>
+    <string name="tester_1">BillouetAudrey</string>
+    <string name="tester_2">Srinivas</string>
 </resources>

@@ -32,8 +32,8 @@
         android:layout_height="wrap_content"
         android:selectable="false">
 	<ImageView
-        android:layout_width="512px"
-        android:layout_height="512px"
+        android:layout_width="512dp"
+        android:layout_height="512dp"
         android:src="@drawable/pearl_logo"
         android:adjustViewBounds="true"
         android:scaleType="centerInside" />

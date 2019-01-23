@@ -100,24 +100,4 @@ xmlns:android="http://schemas.android.com/apk/res/android"
                android:data="https://github.com/DotOS/" />
         </Preference>
 </PreferenceCategory>
-
-<PreferenceCategory
-              android:key="maintainers"
-              android:title="@string/maintainers" >
-</PreferenceCategory>
-
-<PreferenceCategory
-              android:key="tester"
-	              android:title="@string/tester" >
-
-       <Preference
-            android:title="@string/tester_1"
-    android:icon="@drawable/ic_devs_phone">
-    <intent
-               android:action="android.intent.action.VIEW"
-               android:data="https://t.me/billouetaudrey" />
-
-      </Preference>
-</PreferenceCategory>
-
 </PreferenceScreen>

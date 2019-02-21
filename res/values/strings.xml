@@ -10085,4 +10085,8 @@
 
     <!-- Title for Connected device shortcut [CHAR LIMIT=30] -->
     <string name="devices_title">Devices</string>
+
+    <!-- SereinExtras -->
+    <string name="shellextras_title">ShellExtras</string>
+    <string name="shellextras_summary">Customization Hub</string>
 </resources>

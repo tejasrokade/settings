@@ -3357,7 +3357,7 @@
 
         <activity android:name=".Settings$ShellExtrasActivity"
                   android:label="@string/shellextras_title"
-                  android:icon="@drawable/ic_settings_shellextras">
+                  android:icon="@drawable/ic_homepage_pearl">
             <intent-filter android:priority="10">
                 <action android:name="com.android.settings.action.SETTINGS"/>
             </intent-filter>
